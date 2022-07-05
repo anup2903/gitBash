@@ -1,0 +1,4 @@
+this is version of project
+i want this to go to commit
+
+changed by me
